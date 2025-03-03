@@ -12,20 +12,20 @@ Hello and welcome to *Sharpstone.blog*! I’m Randy Haas, an IT professional wit
 ## My Journey
 My career began in the trenches of IT infrastructure: designing networks, configuring switches and firewalls, building servers, managing databases, and planning data centers. Over time, I expanded into software development and information security consulting, honing a deep understanding of how systems—and the people who run them—work together. In recent years, I’ve led teams implementing and optimizing enterprise platforms like ServiceNow and Salesforce, blending technical expertise with strategic leadership.
 
-I hold a **Master’s of Project Management** and a **Master’s of Science in Accounting**, which fuel my passion for structured problem-solving and financial clarity. In addition to my main job I also teach *Introduction to Financial Accounting* at the college level, helping students grasp the fundamentals of numbers that drive business decisions.
+I hold a Master’s in Project Management and a Master’s in Accounting, which complement my IT experience and help me develop a well-rounded, 360-degree understanding of business. Beyond my primary role, I also teach Introduction to Financial Accounting at the college level, where I enjoy helping students grasp the concepts that often drive business decisions.
 
 ## What to Expect
-On *Sharpstone.blog*, I’ll dive into topics that matter to professionals, leaders, and curious minds alike:
-- **Technology**: From infrastructure and cybersecurity to modern platforms like ServiceNow and Salesforce.
-- **Leadership**: Lessons from managing teams and driving IT projects to success.
-- **Financial Trends**: Insights into economics, markets, and the forces shaping business.
-- **Financial Accounting**: Practical explanations and real-world applications.
-- **Artificial Intelligence**: How AI is transforming IT, leadership, and finance—and what it means for the future.
+On *Sharpstone.blog*, I plan to explore things at the intersection of AI, leadership, and enterprise technology. Ideally I will tie them back to financial drivers of business decisions. My primary focus includes:
+- **Artificial Intelligence**: How AI is reshaping IT, leadership, and finance, and what it means for the future.
+- **Leadership**: Lessons from managing teams, successful (and failed) IT projects, and how to increase business agility.
+- **ServiceNow and Salesforce**: Navigating these platforms and reflections on successful use and key functionality.
+- **Finance and Accounting**: Practical insights focused on business strategy and any organizations best asset - their people.
+- **Other Tech and Business Trends**: Occasional deep dives into cybersecurity, infrastructure, and market forces shaping the corporate landscape.
 
-Expect a mix of deep dives, practical tips, and forward-looking analysis. Whether you’re an IT pro, a manager, a finance enthusiast, or just intrigued by where AI is taking us, there’s something here for you.
+ Whether you’re an IT pro, a manager, a finance enthusiast, or just intrigued by our rapidly evolving AI driven world, there’s something here for you.
 
 ## Why Sharpstone?
-I chose the name *Sharpstone* for my consulting company, The Sharpstone Group LLC, for three meaningful reasons. First, it’s inspired by the proverb, “As iron sharpens iron, so one person sharpens another”—a reminder that growth comes through collaboration and challenge. Second, the arrowhead reflects my Potawatomi and Oneida heritage, symbolizing precision, strength, and a connection to my roots. Third, my training sessions, dubbed *Arrowhead Trainings*, are designed to be quick, to-the-point, and effective—delivering impactful insights without fluff. This blog embodies that same ethos: sharp, grounded, and purposeful content.
+I chose the name Sharpstone for three key reasons. First, it’s inspired by the proverb, “As iron sharpens iron, so one person sharpens another,” a reminder that growth happens through challenge and collaboration. Second, the arrowhead symbolizes precision, strength, and a deep connection to my Potawatomi and Oneida heritage. And third, my training sessions—Arrowhead Trainings—are designed to be sharp, focused, and effective, cutting through the noise to deliver real impact. This blog follows that same philosophy: content that’s insightful, grounded, and purpose-driven.
 
 ## Let’s Connect
 I’ll be posting regularly, with several articles on AI’s role across these domains coming soon. Follow along here, on [LinkedIn](https://linkedin.com/in/rghaas), or [X](https://x.com/therandyhaas), where I’ll share updates and links to new content. Have a topic you’d like me to explore? Reach out—I’d love to hear from you.
