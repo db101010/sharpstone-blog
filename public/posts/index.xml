@@ -15,5 +15,19 @@
       <guid>http://localhost:1313/posts/welcome-to-sharpstone/</guid>
       <description>&lt;h1 id=&#34;welcome-to-sharpstoneblog&#34;&gt;Welcome to Sharpstone.blog&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/arrowhead-logo.png&#34; alt=&#34;Sharpstone Arrowhead Logo&#34; title=&#34;center&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello and welcome to &lt;em&gt;Sharpstone.blog&lt;/em&gt;! I’m Randy Haas, an IT professional with almost three decades of experience spanning the full spectrum of technology—from infrastructure to development, information security, and leadership. This site is my platform to share insights, trends, and practical advice at the intersection of technology, leadership, finance, and accounting.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-journey&#34;&gt;My Journey&lt;/h2&gt;&#xA;&lt;p&gt;My career began in the trenches of IT infrastructure: designing networks, configuring switches and firewalls, building servers, managing databases, and planning data centers. Over time, I expanded into software development and information security consulting, honing a deep understanding of how systems—and the people who run them—work together. In recent years, I’ve led teams implementing and optimizing enterprise platforms like ServiceNow and Salesforce, blending technical expertise with strategic leadership.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Is it thinking? Artificial Intelligence: A Guide for Thinking Humans</title>
+      <link>http://localhost:1313/posts/is-it-thinking/</link>
+      <pubDate>Thu, 21 Nov 2024 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/is-it-thinking/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/is-it-thinking.png&#34; alt=&#34;Is it thinking&#34; title=&#34;center&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;I recommend reading &amp;quot;Artificial Intelligence: A Guide for Thinking&#xA;Humans&amp;quot;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I just finished up &amp;quot;Artificial Intelligence: A Guide for Thinking&#xA;Humans&amp;quot; by Melanie Mitchell. It was a great, quick read. I recommend it&#xA;to anyone that wants a great primer on AI with or without a background&#xA;in tech. Mitchell does an excellent job making complex topics&#xA;approachable and sharing metaphors and examples that make AI&#39;s nuances&#xA;understandable for non-specialists. Dr. Mitchell manages to explore the&#xA;topics to a certain depth without drowning you in tech speak.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emotional Intelligence and Leadership</title>
+      <link>http://localhost:1313/posts/eq_post/</link>
+      <pubDate>Mon, 10 Feb 2020 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/eq_post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/EQarticle.png&#34; alt=&#34;Emotional Intelligence and Leadership&#34; title=&#34;center&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;One of the great buzzwords of the last several years has been EQ, or&#xA;emotional intelligence.  John Maxwell ranks this as the most important&#xA;form of intelligence because it is behind our ability to connect with&#xA;others.  In this time of social distancing, unrest, injustice, and&#xA;uncertainty about the future connecting with others is the most&#xA;important thing we can be doing.  &lt;/p&gt;&#xA;&lt;p&gt;IT professionals, in particular, can reap benefits from focusing their&#xA;#leadership and their teams on raising their emotional&#xA;intelligence. Zoom and Webex meetings take away some of the personal&#xA;touch, as our interactions tend to be hyper-focused and lose the nuances&#xA;gained by a handful of interpersonal meetings during a typical&#xA;workday. These nuances can be the difference between cohesiveness and a&#xA;functionally competent but unengaged team.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -19,7 +19,7 @@ On *Sharpstone.blog*, I plan to explore things at the intersection of AI, leader
 - **Artificial Intelligence**: How AI is reshaping IT, leadership, and finance, and what it means for the future.
 - **Leadership**: Lessons from managing teams, successful (and failed) IT projects, and how to increase business agility.
 - **ServiceNow and Salesforce**: Navigating these platforms and reflections on successful use and key functionality.
-- **Finance and Accounting**: Practical insights focused on business strategy and any organizations best asset - their people.
+- **Finance and Accounting**: Practical insights focused on business strategy and any organization's best asset - their people.
 - **Other Tech and Business Trends**: Occasional deep dives into cybersecurity, infrastructure, and market forces shaping the corporate landscape.
 
  Whether you’re an IT pro, a manager, a finance enthusiast, or just intrigued by our rapidly evolving AI driven world, there’s something here for you.
@@ -30,6 +30,6 @@ I chose the name Sharpstone for three key reasons. First, it’s inspired by the
 ## Let’s Connect
 I’ll be posting regularly, with several articles on AI’s role across these domains coming soon. Follow along here, on [LinkedIn](https://linkedin.com/in/rghaas), or [X](https://x.com/therandyhaas), where I’ll share updates and links to new content. Have a topic you’d like me to explore? Reach out—I’d love to hear from you.
 
-Thanks for stopping by. Let’s build something sharp together.
+Thanks for stopping by. I look forward to our interactions as they will sharpen us both!
 
 — Randy Haas
