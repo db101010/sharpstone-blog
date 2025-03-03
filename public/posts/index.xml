@@ -9,11 +9,11 @@
     <lastBuildDate>Sun, 02 Mar 2025 10:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to Sharpstone</title>
+      <title>Welcome to Sharpstone.blog</title>
       <link>http://localhost:1313/posts/welcome-to-sharpstone/</link>
       <pubDate>Sun, 02 Mar 2025 10:00:00 -0500</pubDate>
       <guid>http://localhost:1313/posts/welcome-to-sharpstone/</guid>
-      <description>&lt;p&gt;This is my first post on sharpstone.blog. Check it out!&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;welcome-to-sharpstoneblog&#34;&gt;Welcome to Sharpstone.blog&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/arrowhead-logo.png&#34; alt=&#34;Sharpstone Arrowhead Logo&#34; title=&#34;center&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hello and welcome to &lt;em&gt;Sharpstone.blog&lt;/em&gt;! I’m Randy Haas, an IT professional with almost three decades of experience spanning the full spectrum of technology—from infrastructure to development, information security, and leadership. This site is my platform to share insights, trends, and practical advice at the intersection of technology, leadership, finance, and accounting.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-journey&#34;&gt;My Journey&lt;/h2&gt;&#xA;&lt;p&gt;My career began in the trenches of IT infrastructure: designing networks, configuring switches and firewalls, building servers, managing databases, and planning data centers. Over time, I expanded into software development and information security consulting, honing a deep understanding of how systems—and the people who run them—work together. In recent years, I’ve led teams implementing and optimizing enterprise platforms like ServiceNow and Salesforce, blending technical expertise with strategic leadership.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

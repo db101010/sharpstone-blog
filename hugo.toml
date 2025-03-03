@@ -9,6 +9,40 @@ theme = "mainroad"
   opengraph = true  # For social media previews
   twitter_cards = true
   readmore = true   # Adds "Read More" links
+  # logo = "/images/sharpstone-logo.png"
+  logoPath = "/images/sharpstone-logo.png"  # Try this instead
+  customCSS = ["css/custom.css"]  # Relative to static/
+  toc = true # Enable Table of Contents
+
+ [params.style.vars]
+   highlightcolor ="#0099CD"
+
+  [params.logo]
+   image = "/images/sharpstone-logo.png"
+   title = "Sharpstone Blog"
+   alt = "Sharpstone Blog Logo"
+
+  [params.thumbnail]
+  visibility = ["list", "post"] # Control thumbnail visibility
+
+  [params.sidebar]
+   home = "right"
+   list = "right"
+   single = "right"
+   # Enable widgets in given order
+   widgets = ["search", "recent", "categories", "taglist", "social"]
+
+  [params.widgets]
+   recent_num = 5 # Set the number of articles in the "Recent articles" widget
+   categories_counter = false # Enable counter for each category in "Categories" widget
+   tags_counter = false # Enable counter for each tag in "Tags" widget
+
+  [params.widgets.social]
+   # Enable parts of social widget
+   twitter = "therandyhaas"
+   linkedin = "rghaas"
+   email = "randy.haas@sharpstonegroup.com"
+
 
 [[menu.main]]
   name = "Home"

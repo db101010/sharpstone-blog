@@ -1,0 +1,16 @@
+:root {
+    --primary-color: #0099CD; /* Links, buttons */
+    --secondary-color: #454545; /* Accents */
+    --body-bg: #231F20; /* Background */
+  }
+  body {
+    background-color: var(--body-bg);
+  }
+  a, .post-title a {
+    color: var(--primary-color);
+  }
+  .post-meta, .widget-title {
+    color: var(--secondary-color);
+  }
+  .toc a { color: var(--primary-color); }  /* Fix TOC links */
+  .post-content a { color: var(--primary-color); }  /* Target links in post body */

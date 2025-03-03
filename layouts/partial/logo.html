@@ -1,0 +1,7 @@
+<a href="{{ .Site.BaseURL }}" class="logo">
+	{{ if .Site.Params.logo.path }}
+	  <img src="{{ .Site.Params.logo.path | relURL }}" alt="{{ .Site.Params.logo.alt }}">
+	{{ else }}
+	  {{ .Site.Title }}
+	{{ end }}
+  </a>
