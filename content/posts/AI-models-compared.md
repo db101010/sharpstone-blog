@@ -16,7 +16,7 @@ thumbnail: ""
 description: "A comprehensive guide to selecting the most appropriate AI model for your specific needs, from research to content creation and coding assistance."
 ---
 
-![AI Models image by ChatGPT](/images/AI-models.png "center")
+![AI Models image by ChatGPT](images/AI-models.png "center")
 ## Introduction 
 As Simon Sinek says **"Start with why"**.  When you know the why you are wanting to use the AI model the other questions and answers can follow relatively easy. Current AI as sophisticated as it may be - is still what is known as 'narrow' this means they are built for specific tasks and contexts. These specific tasks and contexts may be expansive but the range of the expertise is relatively narrow. Due to the AI's being narrow it's necessary to be literate in the many models that are available and what they excel at vs what they are just ok at vs what they cannot do at all. 
 
