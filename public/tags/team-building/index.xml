@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team Building on Sharpstone Blog</title>
+    <link>http://localhost:1313/tags/team-building/</link>
+    <description>Recent content in Team Building on Sharpstone Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 09:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/team-building/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emotional Intelligence and Leadership</title>
+      <link>http://localhost:1313/posts/eq_post/</link>
+      <pubDate>Mon, 10 Feb 2020 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/eq_post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/EQarticle.png&#34; alt=&#34;Emotional Intelligence and Leadership&#34; title=&#34;center&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;One of the great buzzwords of the last several years has been EQ, or&#xA;emotional intelligence.  John Maxwell ranks this as the most important&#xA;form of intelligence because it is behind our ability to connect with&#xA;others.  In this time of social distancing, unrest, injustice, and&#xA;uncertainty about the future connecting with others is the most&#xA;important thing we can be doing.  &lt;/p&gt;&#xA;&lt;p&gt;IT professionals, in particular, can reap benefits from focusing their&#xA;#leadership and their teams on raising their emotional&#xA;intelligence. Zoom and Webex meetings take away some of the personal&#xA;touch, as our interactions tend to be hyper-focused and lose the nuances&#xA;gained by a handful of interpersonal meetings during a typical&#xA;workday. These nuances can be the difference between cohesiveness and a&#xA;functionally competent but unengaged team.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

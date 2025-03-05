@@ -2,6 +2,13 @@
 title: "Welcome to Sharpstone.blog"
 date: 2025-03-02T10:00:00-05:00
 draft: false
+
+categories:
+  - General
+tags:
+  - AI
+  - Who Am I
+  - What is Sharpstone.blog
 ---
 
 # Welcome to Sharpstone.blog

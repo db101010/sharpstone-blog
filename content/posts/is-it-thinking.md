@@ -3,6 +3,15 @@ title: "Is it thinking? Artificial Intelligence: A Guide for Thinking
 Humans"
 date: 2024-11-21T09:00:00-05:00
 draft: false
+categories:
+  - Technology
+  - AI
+  - Book Review
+tags:
+  - AI
+  - Machine Learning
+  - Productivity
+  - Tools
 toc: true
 ---
 

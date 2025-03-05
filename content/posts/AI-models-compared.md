@@ -2,8 +2,11 @@
 ---
 title: "Choosing the Right AI Model: A Practical Comparison"
 date: 2025-03-03
+draft: false
+
 categories:
   - Technology
+  - AI
 tags:
   - AI
   - Machine Learning

@@ -3,6 +3,12 @@ title: "Emotional Intelligence and Leadership"
 date: 2020-02-10T09:00:00-05:00
 draft: false
 toc: true
+
+categories:
+  - Leadership
+tags:
+  - EQ
+  - Team Building
 ---
 
 ![Emotional Intelligence and Leadership](/images/EQarticle.png "center")
