@@ -1,7 +1,7 @@
 ---
 title: "AI Unpacked: Beyond the buzzwords"
 date: '2025-03-06'
-draft: false
+draft: true
 toc: true
 
 categories:
