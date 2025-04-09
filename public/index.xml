@@ -6,8 +6,15 @@
     <description>Recent content on Sharpstone Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Unpacked: Beyond the buzzwords</title>
+      <link>http://localhost:1313/posts/ai-unpacked-beyond-the-buzzwords/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ai-unpacked-beyond-the-buzzwords/</guid>
+      <description>&lt;h1 id=&#34;ai-unpacked-beyond-the-buzzwords&#34;&gt;AI Unpacked: Beyond the buzzwords&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;AI, AI everywhere, and not a second to think.&lt;/strong&gt; Just like the poor sailors in Coleridge’s The Rime of the Ancient Mariner—surrounded by water but dying of thirst—we’re inundated with AI yet terribly &lt;strong&gt;tempted to implement&lt;/strong&gt; it without pausing to &lt;strong&gt;consider ROI, data readiness, or ethical implications&lt;/strong&gt;. If you’ve been awake at any point since late 2022, you’ve probably been urged to join the AI revolution.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Choosing the Right AI Model: A Practical Comparison</title>
       <link>http://localhost:1313/posts/ai-models-compared/</link>

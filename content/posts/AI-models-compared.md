@@ -27,7 +27,6 @@ About a week ago I posted a relatively simple (but large) chart that I had made 
 
 To really get good with AI and make the most of it - work on your **critical thinking and creativity.**
 
-
 ## AI Model Overviews
 
 Here's a **concise breakdown** of the most popular AI models today:
@@ -90,7 +89,6 @@ Often pairing AI models and going back and forth provides deeper and more benefi
 
 👉 For Coding: Use ChatGPT (problem-solving) + Copilot (inline coding suggestions).
 
-
 ## Industry-Specific Use Case Thoughts
 
 | Industry | Recommended AI Models | Best Use Cases |
@@ -107,6 +105,7 @@ Often pairing AI models and going back and forth provides deeper and more benefi
 | **Real Estate** | ChatGPT, Perplexity | Property description generation, market analysis research, document processing |
 
 (Note: In some of these use cases you could try DeepSeek for advanced reasoning, complex problem explanation, or its reported strength in code reasoning.  I have only read about it's potential use cases and strengths - but I do not personally have a strong desire to spend much time with it.)
+
 ## AI Model Strengths & Best Use Cases
 
 | If you want to... | Consider these AI Models | Why? |

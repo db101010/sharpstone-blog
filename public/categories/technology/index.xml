@@ -6,14 +6,21 @@
     <description>Recent content in Technology on Sharpstone Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Unpacked: Beyond the buzzwords</title>
+      <link>http://localhost:1313/posts/ai-unpacked-beyond-the-buzzwords/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ai-unpacked-beyond-the-buzzwords/</guid>
+      <description>&lt;h1 id=&#34;ai-unpacked-beyond-the-buzzwords&#34;&gt;AI Unpacked: Beyond the buzzwords&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;AI, AI everywhere, and not a second to think.&lt;/strong&gt; Just like the poor sailors in Coleridge’s The Rime of the Ancient Mariner—surrounded by water but dying of thirst—we’re inundated with AI yet terribly &lt;strong&gt;tempted to implement&lt;/strong&gt; it without pausing to &lt;strong&gt;consider ROI, data readiness, or ethical implications&lt;/strong&gt;. If you’ve been awake at any point since late 2022, you’ve probably been urged to join the AI revolution.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Choosing the Right AI Model: A Practical Comparison</title>
       <link>http://localhost:1313/posts/ai-models-compared/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/ai-models-compared/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/AI-models.png&#34; alt=&#34;AI Models image by ChatGPT&#34; title=&#34;center&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;As Simon Sinek says &lt;strong&gt;&amp;ldquo;Start with why&amp;rdquo;&lt;/strong&gt;.  When you know the why you are wanting to use the AI model the other questions and answers can follow relatively easy. Current AI as sophisticated as it may be - is still what is known as &amp;rsquo;narrow&amp;rsquo; this means they are built for specific tasks and contexts. These specific tasks and contexts may be expansive but the range of the expertise is relatively narrow. Due to the AI&amp;rsquo;s being narrow it&amp;rsquo;s necessary to be literate in the many models that are available and what they excel at vs what they are just ok at vs what they cannot do at all.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/AI-Models.png&#34; alt=&#34;AI Models image by ChatGPT&#34; title=&#34;center&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;As Simon Sinek says &lt;strong&gt;&amp;ldquo;Start with why&amp;rdquo;&lt;/strong&gt;.  When you know the why you are wanting to use the AI model the other questions and answers can follow relatively easy. Current AI as sophisticated as it may be - is still what is known as &amp;rsquo;narrow&amp;rsquo; this means they are built for specific tasks and contexts. These specific tasks and contexts may be expansive but the range of the expertise is relatively narrow. Due to the AI&amp;rsquo;s being narrow it&amp;rsquo;s necessary to be literate in the many models that are available and what they excel at vs what they are just ok at vs what they cannot do at all.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Is it thinking? Artificial Intelligence: A Guide for Thinking Humans</title>
