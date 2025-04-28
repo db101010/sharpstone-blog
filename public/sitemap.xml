@@ -3,10 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/ai/</loc>
-    <lastmod>2025-04-06T21:42:30-05:00</lastmod>
+    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2025-04-06T21:42:30-05:00</lastmod>
+    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/book-review/</loc>
+    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/books/</loc>
+    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/critical-thinking/</loc>
+    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/model-thinker-scott-page-book-review/</loc>
+    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/reflection/</loc>
+    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/technology/</loc>
+    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ai/</loc>
     <lastmod>2025-04-06T21:42:30-05:00</lastmod>
@@ -14,19 +44,10 @@
     <loc>http://localhost:1313/ai/april-2025-ai-models-update/</loc>
     <lastmod>2025-04-06T21:42:30-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-04-06T21:42:30-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/machine-learning/</loc>
     <lastmod>2025-04-06T21:42:30-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/productivity/</loc>
-    <lastmod>2025-04-06T21:42:30-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-06T21:42:30-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-04-06T21:42:30-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/technology/</loc>
@@ -36,9 +57,6 @@
     <lastmod>2025-04-06T21:42:30-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/ai-unpacked-beyond-the-buzzwords/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/ai-models-compared/</loc>

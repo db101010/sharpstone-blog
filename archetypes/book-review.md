@@ -33,4 +33,4 @@ thumbnail = ""
 
 ## 📚 What I’m Reading Next
 
-**Up next:** _{{}}_
+

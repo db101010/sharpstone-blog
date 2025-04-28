@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Sharpstone Blog</title>
+    <link>http://localhost:1313/tags/technology/</link>
+    <description>Recent content in Technology on Sharpstone Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Apr 2025 13:14:48 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Model Thinker by Scott Page, a Book Review</title>
+      <link>http://localhost:1313/posts/model-thinker-scott-page-book-review/</link>
+      <pubDate>Mon, 28 Apr 2025 13:14:48 -0500</pubDate>
+      <guid>http://localhost:1313/posts/model-thinker-scott-page-book-review/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/model_thinker_review.png&#34; alt=&#34;Model Thinker image by ChatGPT&#34; title=&#34;center&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;-book-overview&#34;&gt;📖 Book Overview&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt;  The Model Thinker: What you need to know to make data work for you&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt;  Scott E. Page&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Published:&lt;/strong&gt;  2021 (expanded edition)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Genre/Focus:&lt;/strong&gt;  Popular Science&lt;/p&gt;&#xA;&lt;h2 id=&#34;-why-i-read-this&#34;&gt;🧠 Why I Read This&lt;/h2&gt;&#xA;&lt;p&gt;As part of my ongoing Doctoral research into Business, Accounting, and Artificial Intelligence, I sought out this book to deepen my understanding of model-driven thinking—a critical skill for modern leadership. Data models are the often-hidden underpinnings of the Information Age, and much of what people refer to as &amp;ldquo;AI&amp;rdquo; today is actually fast, layered modeling. My goal was to sharpen my ability to interpret, apply, and challenge models effectively. The Model Thinker delivered valuable tools that I am already applying in strategic decision frameworks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

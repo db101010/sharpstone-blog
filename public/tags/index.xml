@@ -6,13 +6,34 @@
     <description>Recent content in Tags on Sharpstone Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Apr 2025 21:42:30 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 13:14:48 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Sun, 06 Apr 2025 21:42:30 -0500</pubDate>
+      <pubDate>Mon, 28 Apr 2025 13:14:48 -0500</pubDate>
       <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Book Review</title>
+      <link>http://localhost:1313/tags/book-review/</link>
+      <pubDate>Mon, 28 Apr 2025 13:14:48 -0500</pubDate>
+      <guid>http://localhost:1313/tags/book-review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Critical Thinking</title>
+      <link>http://localhost:1313/tags/critical-thinking/</link>
+      <pubDate>Mon, 28 Apr 2025 13:14:48 -0500</pubDate>
+      <guid>http://localhost:1313/tags/critical-thinking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/tags/technology/</link>
+      <pubDate>Mon, 28 Apr 2025 13:14:48 -0500</pubDate>
+      <guid>http://localhost:1313/tags/technology/</guid>
       <description></description>
     </item>
     <item>
