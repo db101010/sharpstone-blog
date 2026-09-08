@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/big-ideas/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/chokepoints/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/critical-thinking/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/enterprise-architecture/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/governance/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/it-leadership/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/it-strategy/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/leadership/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/organizational-alignment/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/straits-of-it/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technology/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/whiplash-it/</loc>
+    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/ai/</loc>
     <lastmod>2025-04-28T13:14:48-05:00</lastmod>
   </url><url>
@@ -14,25 +62,10 @@
     <loc>http://localhost:1313/categories/books/</loc>
     <lastmod>2025-04-28T13:14:48-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/critical-thinking/</loc>
-    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/model-thinker-scott-page-book-review/</loc>
     <lastmod>2025-04-28T13:14:48-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/reflection/</loc>
-    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-28T13:14:48-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-04-28T13:14:48-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/technology/</loc>
@@ -48,9 +81,6 @@
     <lastmod>2025-04-06T21:42:30-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/productivity/</loc>
-    <lastmod>2025-04-06T21:42:30-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/technology/</loc>
     <lastmod>2025-04-06T21:42:30-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tools/</loc>
@@ -86,10 +116,9 @@
     <loc>http://localhost:1313/tags/eq/</loc>
     <lastmod>2020-02-10T09:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/leadership/</loc>
-    <lastmod>2020-02-10T09:00:00-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/team-building/</loc>
     <lastmod>2020-02-10T09:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/essays/</loc>
   </url>
 </urlset>
