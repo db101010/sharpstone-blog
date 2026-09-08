@@ -9,17 +9,17 @@
     <lastBuildDate>Mon, 07 Sep 2026 23:51:13 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Essays</title>
-      <link>http://localhost:1313/categories/essays/</link>
+      <title>Leadership</title>
+      <link>http://localhost:1313/categories/leadership/</link>
       <pubDate>Mon, 07 Sep 2026 23:51:13 -0500</pubDate>
-      <guid>http://localhost:1313/categories/essays/</guid>
+      <guid>http://localhost:1313/categories/leadership/</guid>
       <description></description>
     </item>
     <item>
-      <title>Reflection</title>
-      <link>http://localhost:1313/categories/reflection/</link>
+      <title>Technology</title>
+      <link>http://localhost:1313/categories/technology/</link>
       <pubDate>Mon, 07 Sep 2026 23:51:13 -0500</pubDate>
-      <guid>http://localhost:1313/categories/reflection/</guid>
+      <guid>http://localhost:1313/categories/technology/</guid>
       <description></description>
     </item>
     <item>
@@ -37,10 +37,10 @@
       <description></description>
     </item>
     <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/categories/technology/</link>
-      <pubDate>Sun, 06 Apr 2025 21:42:30 -0500</pubDate>
-      <guid>http://localhost:1313/categories/technology/</guid>
+      <title>Reflection</title>
+      <link>http://localhost:1313/categories/reflection/</link>
+      <pubDate>Mon, 28 Apr 2025 13:14:48 -0500</pubDate>
+      <guid>http://localhost:1313/categories/reflection/</guid>
       <description></description>
     </item>
     <item>
@@ -55,13 +55,6 @@
       <link>http://localhost:1313/categories/book-review/</link>
       <pubDate>Thu, 21 Nov 2024 09:00:00 -0500</pubDate>
       <guid>http://localhost:1313/categories/book-review/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Leadership</title>
-      <link>http://localhost:1313/categories/leadership/</link>
-      <pubDate>Mon, 10 Feb 2020 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/categories/leadership/</guid>
       <description></description>
     </item>
   </channel>

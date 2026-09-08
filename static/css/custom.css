@@ -14,3 +14,17 @@
   }
   .toc a { color: var(--primary-color); }  /* Fix TOC links */
   .post-content a { color: var(--primary-color); }  /* Target links in post body */
+ .sharpstone-subscribe {
+    margin: 2.5rem 0 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #ddd;
+}
+
+.sharpstone-subscribe h2 {
+    margin-bottom: 0.25rem;
+}
+
+.sharpstone-subscribe__lead {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
