@@ -5,7 +5,7 @@ theme = "mainroad"
 
 [params]
   description = "Articles and insights from Sharpstone"
-  copyright = "© 2025 Randy Haas / The Sharpstone Group LLC"
+  copyright = "Randy Haas / The Sharpstone Group LLC"
   opengraph = true  # For social media previews
   twitter_cards = true
   readmore = true   # Adds "Read More" links
