@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-09-08T17:54:59-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-09-08T17:54:59-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/big-ideas/</loc>
     <lastmod>2026-09-07T23:51:13-05:00</lastmod>
   </url><url>
@@ -30,12 +36,6 @@
     <lastmod>2026-09-07T23:51:13-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/organizational-alignment/</loc>
-    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-09-07T23:51:13-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-09-07T23:51:13-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/straits-of-it/</loc>
@@ -85,9 +85,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/tools/</loc>
     <lastmod>2025-04-06T21:42:30-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/ai-unpacked-beyond-the-buzzwords/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/ai-models-compared/</loc>
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
