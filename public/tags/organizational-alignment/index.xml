@@ -6,8 +6,15 @@
     <description>Recent content in Organizational Alignment on Sharpstone Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:54:59 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 23:07:25 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/organizational-alignment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Straits of IT: An Arb Doesn&#39;t Have to Be a Blockade</title>
+      <link>http://localhost:1313/posts/straits-of-it-arb-doesnt-have-to-be-a-blockade/</link>
+      <pubDate>Mon, 21 Sep 2026 23:07:25 -0500</pubDate>
+      <guid>http://localhost:1313/posts/straits-of-it-arb-doesnt-have-to-be-a-blockade/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/ARB66.png&#34; alt=&#34;The Hidden Governance&#34; title=&#34;center&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-governance-paradox&#34;&gt;The Governance Paradox&lt;/h2&gt;&#xA;&lt;p&gt;IT departments are frequently buffeted by whiplash projects, thrown back and forth between proactive and reactive, while often balancing capacity. Eventually someone will propose some form of Architecture Review Board (ARB).&lt;/p&gt;&#xA;&lt;p&gt;The IT goal - prevent the sprawl of technology, get visibility into projects before IT resources are needed or committed, maintain a strong security posture, reduce technical debt and prevent integration problems or redundancies.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Straits of IT: Why Most IT Organizations Never Escape Reactive Mode</title>
       <link>http://localhost:1313/posts/straits-of-it-2/</link>
