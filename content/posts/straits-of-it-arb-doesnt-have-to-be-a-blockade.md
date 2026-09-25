@@ -1,5 +1,5 @@
 +++
-title = "Straits of IT: An Arb Doesn't Have to Be a Blockade"
+title = "Straits of IT: An ARB Doesn't Have to Be a Blockade"
 date = 2026-09-21T23:07:25-05:00
 draft = false
 categories = ["Essays", "Reflection"]
