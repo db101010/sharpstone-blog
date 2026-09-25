@@ -74,3 +74,7 @@ The third lane is the slowest lane, and the goal should be to make it the lane w
 ## Summary 
 
 An Architecture Review Board should enable the organization to go faster, scale easily, and do so securely. In order to accomplish this the general idea of ARB needs to flip on its head. The goal of ARB should be to be invisible, and critically the mandate of the ARB is to enable business velocity, not deter it.
+
+The bulk of the work of an ARB should be to provide the business with a quick way to self-determine if there is a way to do the work that already exists. And when there is not, the ARB should have encouraged enough trust in the business through education and enablement that going through the review process is the path of least resistance.
+
+In order to accomplish this, there is a foundational layer that must exist. That is the focus of the final article in this series—CMDB and CSDM: the underground storage tanks that make it all possible.
